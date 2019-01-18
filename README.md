@@ -26,4 +26,4 @@
         * Genetic Algorithm
         * Paticle Swarm Optimization
  
- * ByHand
+ * By Hand
