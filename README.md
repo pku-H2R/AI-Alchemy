@@ -37,16 +37,16 @@
 
 # Neural-Architecture-Design
 
-* Automation
+* Automatic
     * Efficient Neural Architecture Search
-* By Hand
+* Manual
 
 
 
 
 # Hyperparameter-Tuning
 
-* Automation
+* Automatic
 
     * Approaches
       * GridSearch
@@ -63,7 +63,7 @@
       * [Vizier](https://ai.google/research/pubs/pub46180)
       * [Advisor](https://github.com/tobegit3hub/advisor)
  
- * By Hand
+ * Manual
 
 # Website
 
