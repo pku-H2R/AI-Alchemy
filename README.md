@@ -1,4 +1,4 @@
-<figure class="half">
+<figure align="center">
     <img src="https://github.com/pku-H2R/AI-Alchemy/blob/master/Picture/alchemy.png">
     <img src="https://github.com/pku-H2R/AI-Alchemy/blob/master/Picture/alchemy_1.png">
 </figure>
