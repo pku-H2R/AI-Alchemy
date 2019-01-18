@@ -9,7 +9,21 @@
 
 # Neural Architecture Design
 
+* Automation
+    * Efficient Neural Architecture Search
+* By Hand
+
 
 
 
 # Hyperparameter Tuning
+
+* Automation
+    * GridSearch
+    * RandomizedSearch
+    * Bayesian Optimization
+    * Heuristic Algorithms
+        * Genetic Algorithm
+        * Paticle Swarm Optimization
+ 
+ * ByHand
