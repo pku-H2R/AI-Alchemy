@@ -1,6 +1,6 @@
 # Neural-Training-Rules-of-Thumb
 
-**本项目目标在于总结网络训练过程中的种种经验，当我们在训练网络的过程中总是要面对两大问题，其一就是网络结构的设计，其二就是网络的训练配置也就是超参数的调节**
+**The goal of this project is to summarize the various experiences in the network training process. When we train the network, we always have to face two major problems. One is the design of the network structure, and the other is the training configuration of the network, which is hyperparameter **
 
 # Content
 * [Neural Architecture Design](#Neural-Architecture-Design)
