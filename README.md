@@ -23,7 +23,7 @@
       * Data
          * Collect more Data
          * Data Augmentation
-      Model
+      * Model
          * Dropout
          * Earlystopping
          * Weight Regularizers
