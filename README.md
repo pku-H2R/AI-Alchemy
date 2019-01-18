@@ -27,6 +27,7 @@
       * Model
          * Dropout
          * Earlystopping
+         * Batch Normalization
          * Weight Regularizers
          * Reducing network size
 
