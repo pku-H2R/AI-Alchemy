@@ -6,6 +6,7 @@
 * [Pipeline](#Pipeline)
 * [Neural Architecture Design](#Neural-Architecture-Design)
 * [Hyperparameter Tuning](#Hyperparameter-Tuning)
+* [Website](#Website)
 
 
 # Pipeline
@@ -49,3 +50,8 @@
         * Paticle Swarm Optimization
  
  * By Hand
+
+# Website
+
+* [Practical Deep Learning for Coders](https://course.fast.ai/)
+* [Deep Learning](https://www.deeplearningbook.org/)
