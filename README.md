@@ -3,9 +3,31 @@
 **The goal of this project is to summarize the various experiences in the network training process. When we train the network, we always have to face two major problems. One is the design of the network structure, and the other is the training configuration of the network, which is hyperparameter tuning**
 
 # Content
+* [Pipeline](#Pipeline)
 * [Neural Architecture Design](#Neural-Architecture-Design)
 * [Hyperparameter Tuning](#Hyperparameter-Tuning)
 
+
+# Pipeline
+
+* Vectorization
+* Preprocessing
+   * Data Normalization
+      * zero mean
+      * unit variance
+   * Feature Scaling
+   * Imbalanced Data
+   * Missing Data
+* Problem
+   * Overfitting 
+      * Data
+         * Collect more Data
+         * Data Augmentation
+      Model
+         * Dropout
+         * Earlystopping
+         * Weight Regularizers
+         * Reducing network size
 
 # Neural-Architecture-Design
 
