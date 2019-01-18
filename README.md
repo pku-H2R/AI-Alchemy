@@ -1,4 +1,4 @@
-<p float="center">
+<p float="left">
   <img src=https://github.com/pku-H2R/AI-Alchemy/blob/master/Picture/alchemy.png width="400" />
   <img src=https://github.com/pku-H2R/AI-Alchemy/blob/master/Picture/alchemy_1.png width="400" />
 </p>
