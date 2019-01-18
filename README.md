@@ -4,7 +4,7 @@
 </p>
                                                                                               
 
-**The goal of this project is to summarize the various experiences in the network training process. When we train the network, we always have to face two major problems. One is the design of the network structure, and the other is the training configuration of the network, which is hyperparameter tuning**
+**The goal of this project is to summarize the various experiences in the neural network training process. When we train the network, we always have to face two major problems. One is the design of the network structure, and the other is the training configuration of the network, which is hyperparameter tuning**
 
 # Content
 * [Pipeline](#Pipeline)
