@@ -1,6 +1,6 @@
 ![Picture](https://github.com/pku-H2R/Neural-Training-Rules-of-Thumb/blob/master/Picture/neural.png)
 
-**The goal of this project is to summarize the various experiences in the network training process. When we train the network, we always have to face two major problems. One is the design of the network structure, and the other is the training configuration of the network, which is hyperparameter**
+**The goal of this project is to summarize the various experiences in the network training process. When we train the network, we always have to face two major problems. One is the design of the network structure, and the other is the training configuration of the network, which is hyperparameter tuning**
 
 # Content
 * [Neural Architecture Design](#Neural-Architecture-Design)
