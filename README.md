@@ -42,6 +42,7 @@
 # Hyperparameter-Tuning
 
 * Automation
+
     * Approaches
       * GridSearch
       * RandomizedSearch
@@ -49,11 +50,13 @@
       * Heuristic Algorithms
           * Genetic Algorithm
           * Paticle Swarm Optimization
+          
     * Open Source Project
       * [Hyperopt](https://github.com/hyperopt/hyperopt)
+      * [Hyperas](https://github.com/maxpumperla/hyperas)
       * [Optunity](https://github.com/claesenm/optunity)
-      * [Advisor](https://github.com/tobegit3hub/advisor)
       * [Vizier](https://ai.google/research/pubs/pub46180)
+      * [Advisor](https://github.com/tobegit3hub/advisor)
  
  * By Hand
 
