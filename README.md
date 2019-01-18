@@ -50,10 +50,10 @@
           * Genetic Algorithm
           * Paticle Swarm Optimization
     * Open Source Project
-      * Hyperopt(https://github.com/hyperopt/hyperopt)
-      * Optunity(https://github.com/claesenm/optunity)
-      * Advisor(https://github.com/tobegit3hub/advisor)
-      * Vizier(https://ai.google/research/pubs/pub46180)
+      * [Hyperopt](https://github.com/hyperopt/hyperopt)
+      * [Optunity](https://github.com/claesenm/optunity)
+      * [Advisor](https://github.com/tobegit3hub/advisor)
+      * [Vizier](https://ai.google/research/pubs/pub46180)
  
  * By Hand
 
