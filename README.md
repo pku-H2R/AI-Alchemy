@@ -38,7 +38,8 @@
 # Neural-Architecture-Search
 
 * Automatic
-    * Efficient Neural Architecture Search
+    * NASnet
+    * MNASnet
 * Manual
 
 
