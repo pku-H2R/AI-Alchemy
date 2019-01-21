@@ -8,7 +8,7 @@
 
 # Content
 * [Pipeline](#Pipeline)
-* [Neural Architecture Design](#Neural-Architecture-Design)
+* [Neural Architecture Search](#Neural-Architecture-Search)
 * [Hyperparameter Tuning](#Hyperparameter-Tuning)
 * [Website](#Website)
 
@@ -35,7 +35,7 @@
          * Weight Regularizers
          * Reducing network size
 
-# Neural-Architecture-Design
+# Neural-Architecture-Search
 
 * Automatic
     * Efficient Neural Architecture Search
