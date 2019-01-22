@@ -9,7 +9,7 @@
 # Content
 * [Pipeline](#Pipeline)
 * [Neural Architecture Search](#Neural-Architecture-Search)
-* [Hyperparameter Tuning](#Hyperparameter-Tuning)
+* [Hyperparameter Tuning/Optimization](#Hyperparameter-Tuning)
 * [Website](#Website)
 
 
@@ -45,7 +45,7 @@
 
 
 
-# Hyperparameter-Tuning
+# Hyperparameter-Tuning/Optimization
 
 * Automatic
 
