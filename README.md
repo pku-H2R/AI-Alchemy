@@ -37,6 +37,8 @@
 
 # Neural-Architecture-Search
 
+![Picture](https://github.com/pku-H2R/AI-Alchemy/blob/master/Picture/NAS.jpg)
+
 * Automatic
     * NASnet
     * MNASnet
