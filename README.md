@@ -40,6 +40,7 @@
 * Automatic
     * NASnet
     * MNASnet
+    * SNAS
 * Manual
 
 
