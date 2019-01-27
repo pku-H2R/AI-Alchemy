@@ -43,6 +43,7 @@
     * NASnet
     * MNASnet
     * SNAS
+    * EAT-NAS
 * Manual
 
 
