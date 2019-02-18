@@ -31,7 +31,7 @@
          * Data Augmentation
       * Model
          * Dropout
-         * Earlystopping
+         * Early Stopping
          * Batch Normalization
          * Weight Regularizers
          * Reducing network size
