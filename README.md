@@ -27,6 +27,7 @@
    * Overfitting 
       * Data
          * Collect more Data
+         * Dimensionality Reduction
          * Data Augmentation
       * Model
          * Dropout
