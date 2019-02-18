@@ -35,13 +35,14 @@
          * Batch Normalization
          * Weight Regularizers
          * Reducing network size
-   * [Reproducible Results](https://machinelearningmastery.com/reproducible-results-neural-networks-keras/)
    * Gradient Vanishing/Exploding
       * Vanishing
          * Initialization Weight
          * ReLU
       * Exploding
          * Gradient Clipping
+   * [Reproducible Results](https://machinelearningmastery.com/reproducible-results-neural-networks-keras/)
+   
 
 # Neural-Architecture-Search
 
