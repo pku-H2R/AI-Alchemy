@@ -53,6 +53,8 @@
     * MNASnet
     * SNAS
     * EAT-NAS
+    * Genetic CNN
+    * Hierarchical Representations
 * Manual
 
 
