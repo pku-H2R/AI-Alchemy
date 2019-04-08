@@ -85,4 +85,4 @@
 
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 * [Deep Learning](https://www.deeplearningbook.org/)
-* [AutoML](www.ml4aad.org/automl/)
+* [AutoML](http://www.ml4aad.org/automl/)
