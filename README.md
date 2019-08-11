@@ -81,6 +81,7 @@
       * [Scikit-optimize](https://scikit-optimize.github.io/)
       * [Spearmint](https://github.com/HIPS/Spearmint)
       * [GPyOpt](https://sheffieldml.github.io/GPyOpt/)
+      * [SMAC3](https://github.com/automl/SMAC3)
  
  * Manual
 
