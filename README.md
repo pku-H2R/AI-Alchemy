@@ -78,6 +78,9 @@
       * [Optunity](https://github.com/claesenm/optunity)
       * [Vizier](https://ai.google/research/pubs/pub46180)
       * [Advisor](https://github.com/tobegit3hub/advisor)
+      * [Scikit-optimize](https://scikit-optimize.github.io/)
+      * [Spearmint](https://github.com/HIPS/Spearmint)
+      * [GPyOpt](https://sheffieldml.github.io/GPyOpt/)
  
  * Manual
 
